@@ -1,5 +1,3 @@
-  GNU nano 2.2.6                                    File: relay.js                                                                                
-
 var Cylon = require("cylon");
 
 Cylon.robot({
